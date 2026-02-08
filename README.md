@@ -53,7 +53,7 @@ The goal was to uncover trends, correlations, and patterns that highlight the re
 1. Clone the repository  
 2. Open the notebook in Jupyter or VS Code  
 3. Install required libraries if needed:
-   pip install pandas matplotlib numpy
+   - pip install pandas matplotlib numpy
 4. Run all cells to reproduce analysis
 
 ---
